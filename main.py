@@ -20,7 +20,7 @@ elif operation == "*":
 elif operation =="/":
     print(first_number/secound_number)
 else :
-    print("rong")
+    print("wrong")
 
 
 
